@@ -102,6 +102,13 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+## Client Side Output:
+
+![Output 1](SSE1.png)
+
+![Output 1](SSE2.png)
+
+![Output 1](SSE3.png)
 
 ## RESULT:
 thus the web server is designed to display information about the top five programming languages
